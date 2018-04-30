@@ -1,0 +1,2 @@
+build20150905-1
+* support SERIAL_CMD_SYS_RTC
